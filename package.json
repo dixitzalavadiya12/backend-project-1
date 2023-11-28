@@ -1,0 +1,21 @@
+{
+  "name": "backend_project",
+  "version": "1.0.0",
+  "description": "a backend project",
+  "type": "module",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "backend"
+  ],
+  "author": "Dixit Zalavadiya",
+  "license": "ISC",
+  "dependencies": {
+    "prettier": "^3.1.0"
+  }
+}
